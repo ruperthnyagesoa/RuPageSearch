@@ -1,0 +1,30 @@
+{
+  "name": "rupagesearch",
+  "version": "2.0.0",
+  "description": "Automated static site-wide search implementation - High performance/Real-time search/Regular expression support/Asynchronous/Web worker/Auto continuous building/Extensible data format/Customizable frontend styles",
+  "main": "search.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ruperthnyagesoa/RuPageSearch.git"
+  },
+  "keywords": [
+    "search",
+    "search-engine",
+    "automation",
+    "regular-expression",
+    "expandable",
+    "webworker"
+  ],
+  "author": "Ruperth",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ruperthnyagesoa/RuPageSearch/issues"
+  },
+  "homepage": "https://github.com/ruperthnyagesoa/RuPageSearch#readme",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.12"
+  }
+}
